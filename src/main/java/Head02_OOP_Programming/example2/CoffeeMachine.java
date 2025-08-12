@@ -17,7 +17,7 @@ public class CoffeeMachine {
     private String[] coffeeType;
     private int coffeeSize;
 
-    public CoffeMachine(String machineName, String color, int weight, String company, LocalDateTime lastCleanedTime, String bean, String[] coffeeType) {
+    public CoffeeMachine(String machineName, String color, int weight, String company, LocalDateTime lastCleanedTime, String bean, String[] coffeeType) {
         this.machineName = machineName;
         this.color = color;
         this.weight = weight;
