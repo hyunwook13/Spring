@@ -1,5 +1,8 @@
 package Head02_OOP_Programming.example3;
 
+import solid.PaymentProcessor;
+
 public interface Payment {
-    int pay(int amount) throws Exception;
+    void pay(double amount);
+
 }

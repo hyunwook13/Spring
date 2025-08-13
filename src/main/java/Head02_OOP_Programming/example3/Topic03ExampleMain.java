@@ -7,12 +7,3 @@ public class Topic03ExampleMain {
         profile.printUserInfo();
     }
 }
-
-class AccountTransferPayment implements Payment {
-
-    @Override
-    public int pay(int amount) throws Exception {
-        System.out.println("계좌이체로 " + amount + "원 결제 완료.");
-        return 0;
-    }
-}
