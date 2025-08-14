@@ -1,4 +1,4 @@
-package solid;
+package Head02_OOP_Programming.solid;
 
 public class NotificationTest {
     public static void main(String[] args) {

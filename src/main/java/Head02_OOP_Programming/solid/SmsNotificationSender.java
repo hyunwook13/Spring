@@ -1,4 +1,4 @@
-package solid;
+package Head02_OOP_Programming.solid;
 
 public class SmsNotificationSender implements NotificationSender {
     @Override

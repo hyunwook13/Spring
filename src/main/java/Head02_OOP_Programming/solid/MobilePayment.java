@@ -1,4 +1,4 @@
-package solid;
+package Head02_OOP_Programming.solid;
 
 import Head02_OOP_Programming.example3.Payment;
 
