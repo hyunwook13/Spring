@@ -7,7 +7,24 @@ import java.util.List;
 
 public class ArrayVsArrayList {
     public static void main(String[] args) {
+
         int[] arr = new int[3];
+
+        List<String> lists = new ArrayList<String>();
+
+        lists.add("apple");
+        lists.add("banana");
+        lists.add("cherry");
+
+        System.out.println(lists.get(0));
+
+        lists.remove(0);
+
+        System.out.println(lists);
+
+        System.out.println(lists.size());
+
+        lists.clear();
 
         arr[0] = 10;
         arr[1] = 20;
