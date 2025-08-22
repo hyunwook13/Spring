@@ -5,7 +5,7 @@ import java.util.IntSummaryStatistics;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class SummarizingExample {
+public class IntSummarizingExample {
     public static void main(String[] args) {
 
         List<Integer> intScores = Arrays.asList(80, 95, 70, 100, 85);
