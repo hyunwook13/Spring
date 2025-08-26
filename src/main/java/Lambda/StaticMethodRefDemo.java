@@ -1,4 +1,4 @@
-package example6;
+package stream_api_advanced_operation;
 
 import java.util.function.Function;
 
