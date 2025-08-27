@@ -1,4 +1,4 @@
-package example6;
+package JCF.Student;
 
 import java.util.*;
 

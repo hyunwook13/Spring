@@ -1,4 +1,4 @@
-package stream_api_advanced_operation;
+package Lambda;
 
 import java.util.function.Function;
 

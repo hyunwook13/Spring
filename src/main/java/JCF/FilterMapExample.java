@@ -1,4 +1,4 @@
-package example6;
+package JCF;
 
 import java.util.HashMap;
 import java.util.Map;

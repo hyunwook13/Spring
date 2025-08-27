@@ -1,6 +1,5 @@
-package example6;
+package JCF;
 
-import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Consumer;
 

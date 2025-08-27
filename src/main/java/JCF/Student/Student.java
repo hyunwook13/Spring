@@ -1,4 +1,4 @@
-package example6;
+package JCF.Student;
 
 public class Student {
     private String name;
